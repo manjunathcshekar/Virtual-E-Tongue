@@ -60,7 +60,7 @@ This README doubles as our progress tracker.
 | Phase | Description | Status |
 | :--- | :--- | :--- |
 | **Phase 1** | Understanding & Scoping | ✅ Completed |
-| **Phase 2** | Hardware Prototype (Simulated Sensors) | ✅ Completed |
+| **Phase 2** | Hardware Prototype (Simulated Sensors) | 🟡 In Progress |
 | **Phase 3** | **Threshold Detection** (Define MDCs) | ✅ Completed |
 | **Phase 4** | **AI/ML Classification** (Adulteration Detection, PCA Visualization) | ✅ Completed |
 | **Phase 5** | Phytochemical Profiling (More compounds + correlation) | 🟡 In Progress |
